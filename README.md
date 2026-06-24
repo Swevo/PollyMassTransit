@@ -126,6 +126,9 @@ public class OrderService(ResilientBus bus)
 | [PollyHealthChecks](https://github.com/Swevo/PollyHealthChecks) | Polly v8 for ASP.NET Core Health Checks |
 | [PollySendGrid](https://github.com/Swevo/PollySendGrid) | Polly v8 for SendGrid |
 | [PollyAzureTableStorage](https://github.com/Swevo/PollyAzureTableStorage) | Polly v8 for Azure Table Storage |
+| [PollyMailKit](https://github.com/Swevo/PollyMailKit) | MailKit SMTP email client |
+| [PollyAzureQueueStorage](https://github.com/Swevo/PollyAzureQueueStorage) | Azure Queue Storage QueueClient |
+| [PollyHangfire](https://github.com/Swevo/PollyHangfire) | Hangfire IBackgroundJobClient |
 | [PollyBackoff](https://github.com/Swevo/PollyBackoff) | Polly v8 backoff helpers |
 
 ## License
