@@ -1,0 +1,4 @@
+<Solution>
+  <Folder Name="/src/"><Project Path="src/PollyMassTransit/PollyMassTransit.csproj" /></Folder>
+  <Folder Name="/tests/"><Project Path="tests/PollyMassTransit.Tests/PollyMassTransit.Tests.csproj" /></Folder>
+</Solution>
